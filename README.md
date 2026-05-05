@@ -9,7 +9,7 @@
 
 ### 🛡️ Mi Camino en Ciberseguridad
 Documentando mi progreso y certificaciones:
-*   **Introducción a la Ciberseguridad**: Aprobado con 100% (Abril 2026) ✅.
+* [Introducción a la Ciberseguridad](./Certificado-Introducción-a-la-Ciberseguridad-EducaciónIT%20(2).pdf) : Aprobado con 100% (Abril 2026) ✅.
 *   **Introducción a Linux**: Iniciando el 09/05/2026 👨‍💻.
 *   **Próximos pasos**: Seguridad en Redes, Operador SOC y Ethical Hacking.
 
