@@ -3,7 +3,7 @@
 **Analista de Sistemas** especializado en **Ciberseguridad**. Graduado en diciembre de 2025 y actualmente cursando la carrera de **Cybersecurity Architect** en EducaciónIT.
 
 ### 🛠️ Perfil Profesional
-*   **Formación Académica:** Analista de Sistemas (Dic 2025).
+*   **Formación Académica:** Analista de Sistemas (Graduado Dic 2025).
 *   **Rol Actual:** Analista de Sistemas en el Ministerio de Capital Humano.
 *   **Especialización:** Ciberseguridad, Redes y Operaciones SOC.
 
