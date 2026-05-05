@@ -14,4 +14,4 @@ Documentando mi progreso y certificaciones:
 *   **Próximos pasos**: Seguridad en Redes, Operador SOC y Ethical Hacking.
 
 ### 📬 Conectemos
-*   **LinkedIn:** [Tu perfil aquí]
+* **LinkedIn:** [Fernando Santos](https://www.linkedin.com/in/fernando-santos-it?
